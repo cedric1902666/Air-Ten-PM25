@@ -1,0 +1,13 @@
+data/raw/
+__pycache__/
+*.pyc
+.paper_build/
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.gz
+*.toc
+*.out
+paper/草稿.txt

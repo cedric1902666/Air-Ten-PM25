@@ -1,0 +1,4 @@
+region,scope,members
+JJJ,province,北京|天津|河北
+YRD,province,上海|江苏|浙江|安徽
+PRD,city,广州|深圳|珠海|佛山|惠州|东莞|中山|江门|肇庆
